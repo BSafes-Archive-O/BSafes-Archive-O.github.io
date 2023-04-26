@@ -54,7 +54,7 @@ April 2023
 
 ### Rachel Toncelli EdD 
 {: .no_toc }
-*Northeastern University *
+*Northeastern University*
 
 ### Leila Rosa PhD  
 {: .no_toc }
